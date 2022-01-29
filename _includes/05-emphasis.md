@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**My life -** 
+*I want to be singer and an Engineer*
+*From my very yong age , this was the dream*
